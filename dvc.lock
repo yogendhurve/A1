@@ -1,0 +1,4 @@
+schema: '2.0'
+stages:
+  train:
+    cmd: train.py currency.csv python train.py
